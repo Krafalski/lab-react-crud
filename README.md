@@ -16,6 +16,14 @@ You've been hired to build out _ScreenViews_, a website dedicated to rating show
    npm install
    ```
 
+   This will install the libraries needed.
+
+1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
+
+1. Deploy this application to Netlify and add the link to your netlify site below:
+
+- [MY LIVE SITE URL]()
+
 ### API for this lab
 
 You will be running your own local server on your machine. Follow the instructions at the link below to get it up and running.
