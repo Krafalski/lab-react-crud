@@ -1,5 +1,8 @@
 // Shows
 
+const URL = import.meta.env.VITE_BASE_API_URL;
+console.log(URL);
+
 // Create
 export function createShow(show) {
   return;
