@@ -1,9 +1,11 @@
+import React from "react";
+
 import hero from "../../assets/denise-jans-Lq6rcifGjOU-unsplash.jpg";
 
 export default function Home() {
   return (
     <div>
-      <img src={hero} alt="film" />
+      <img src={hero} alt="film" style={{ width: "100%" }} />
       <p>
         Photo by{" "}
         <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">

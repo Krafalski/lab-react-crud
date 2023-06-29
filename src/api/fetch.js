@@ -1,8 +1,5 @@
-const URL = process.env.REACT_APP_API_BASE_URL;
-
-// Shows
-
-// Create
+const URL = import.meta.env.VITE_BASE_API_URL;
+console.log(URL);
 export function createShow(show) {
   const options = {
     method: "POST",
